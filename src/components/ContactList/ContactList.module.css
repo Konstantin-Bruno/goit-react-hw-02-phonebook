@@ -1,0 +1,16 @@
+.TaskList {
+  width: 500px;
+}
+
+.TaskList_item {
+  display: flex;
+  align-items: center;
+  padding: 12px;
+  border: 1px solid;
+  border-radius: 5px;
+  border-color: gray;
+}
+
+.TaskList_item {
+  margin-top: 20px;
+}
